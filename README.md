@@ -52,21 +52,22 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ```
-<!DOCTYPE html>
+       <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Real Estate Website</title>
+    <title>Online Website</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-color: plum;
         }
         header {
             background-color: #333;
-            color: white;
+            color:pink;
             padding: 20px;
             text-align: center;
         }
@@ -77,7 +78,7 @@ Upload to GitHub Pages for free hosting.
             padding: 10px;
         }
         nav a {
-            color: white;
+            color:pink;
             text-decoration: none;
             margin: 0 15px;
             padding: 10px 15px;
@@ -92,7 +93,7 @@ Upload to GitHub Pages for free hosting.
             justify-content: center;
             background: url('realestate-hero.jpg') no-repeat center center/cover;
             height: 400px;
-            color: white;
+            color: pink;
             text-align: center;
         }
         .hero h1 {
@@ -131,8 +132,8 @@ Upload to GitHub Pages for free hosting.
         }
         .property-details a {
             text-decoration: none;
-            color: white;
-            background-color: #007BFF;
+            color:brown;
+            background-color: peachpuff;
             padding: 10px 15px;
             border-radius: 5px;
         }
@@ -150,7 +151,7 @@ Upload to GitHub Pages for free hosting.
 </head>
 <body>
     <header>
-        <h1>Dream Homes Real Estate</h1>
+        <h1>My Commercial Website</h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -160,36 +161,36 @@ Upload to GitHub Pages for free hosting.
     </nav>
     <section id="home" class="home">
         <div style="text-align: center; padding: 50px;">
-            <h2>Welcome to Dream Homes Real Estate</h2>
-            <p>We specialize in connecting you with your dream home. Whether you're looking for a luxury villa, a modern apartment, or a cozy cottage, we have the perfect property for you.</p>
+            <h2>Empowering Your Business with Smart Solutions </h2>
+            <p>We deliver innovative products and services that help you grow, thrive, and stay ahead of the competition.</p>
             <a href="#properties" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Browse Properties</a>
         </div>
     </section>
     <section class="hero">
-        <h1>Find Your Dream Home Today</h1>
+        <h1>Explore Your Choice</h1>
     </section>
     <section id="properties" class="properties">
         <div class="property">
-            <img src="download.jpeg" alt="House 1">
+            <img src="C:\Users\admin\Downloads\image 1.webp" >
             <div class="property-details">
-                <h3>Luxury Villa</h3>
-                <p>RS 1,200,000 - 4 Beds, 3 Baths</p>
+                <h3>Branded cloths </h3>
+                <p>RS 8,200</p>
                 <a href="#">View Details</a>
             </div>
         </div>
         <div class="property">
-            <img src="download (1).jpeg" alt="House 2">
+            <img src="C:\Users\admin\Downloads\image 2.webp" >
             <div class="property-details">
-                <h3>Modern Apartment</h3>
-                <p>RS 850,000 - 3 Beds, 2 Baths</p>
+                <h3>Modern Shoes</h3>
+                <p>RS 2000</p>
                 <a href="#">View Details</a>
             </div>
         </div>
         <div class="property">
-            <img src="images.jpeg" alt="House 3">
+            <img src="C:\Users\admin\Downloads\image 3.webp">
             <div class="property-details">
-                <h3>Cozy Cottage</h3>
-                <p>RS 450,000 - 2 Beds, 1 Bath</p>
+                <h3>Smart Watches</h3>
+                <p>RS 4500</p>
                 <a href="#">View Details</a>
             </div>
         </div>
@@ -197,17 +198,17 @@ Upload to GitHub Pages for free hosting.
     <section id="about" class="about" style="background-color: #f9f9f9; padding: 50px;">
         <div style="max-width: 800px; margin: auto; text-align: center;">
             <h2>About Us</h2>
-            <p>Dream Homes Real Estate has been helping families find their perfect homes for over a decade. Our team of experienced agents is dedicated to providing exceptional service and ensuring a smooth buying or renting process. We pride ourselves on offering a wide range of properties to suit every lifestyle and budget.</p>
-            <p>Our mission is to make your dream of owning a home a reality.</p>
+            <p>At My Commercial Website, we specialize in providing high-quality [products/services] tailored to meet the unique needs of businesses and individuals. With a commitment to excellence and a passion for innovation, we help our clients achieve their goals through reliable, scalable, and cost-effective solutions.</p>
+            
         </div>
     </section>
     <section id="contact" class="contact" style="padding: 50px;">
         <div style="max-width: 600px; margin: auto; text-align: center;">
             <h2>Contact Us</h2>
             <p>Have questions or need assistance? We're here to help!</p>
-            <p>Email: <a href="mailto:info@dreamhomes.com">info@dreamhomes.com</a></p>
+            <p>Email: <a href="mailto:info@dreamhomes.com">mywebsite@gmail.com</a></p>
             <p>Phone: <a href="tel:+1234567890">+91 2356789100</a></p>
-            <p>Address: 123 Dream Street, Real Estate City, chennai</p>
+            <p>Address: 123 Innovation Street,Sector 45, Tech Park, chennai</p>
             <form style="margin-top: 20px;">
                 <input type="text" placeholder="Your Name" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;">
                 <input type="email" placeholder="Your Email" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;">
@@ -224,9 +225,9 @@ Upload to GitHub Pages for free hosting.
 ```
 
 ## OUTPUT
-![423427482-375751f6-5ac9-42dd-88c0-401b0b87701d](https://github.com/user-attachments/assets/8f93a01b-ade2-4704-9006-7bfd69fca892)
-![423427535-4f8ec578-5758-4636-998f-aae4af5bfc51](https://github.com/user-attachments/assets/ed9644ca-c790-4689-a737-a7bf6f6dc5b5)
-![423427672-adc4f2da-1d03-469f-a050-538197c38fa4](https://github.com/user-attachments/assets/eeec8e1d-c785-4353-9df2-03216e942214)
+![image](https://github.com/user-attachments/assets/1ddc3628-7512-40ad-a6d3-98f2c6802b23)
+![Screenshot 2025-05-20 140616](https://github.com/user-attachments/assets/1211f6ae-db7c-4887-86f7-282a7f4b825b)
+![Screenshot 2025-05-20 141008](https://github.com/user-attachments/assets/13b3b5b6-2706-4f23-9c7c-ebcedcf105e1)
 
 
 ## RESULT
